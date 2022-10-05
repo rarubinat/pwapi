@@ -1,0 +1,7 @@
+<div class="container pt-3 pb-5">
+    <h1>List of users</h1>
+    <mat-spinner *ngIf="Spinner" class="mx-auto mt-5"></mat-spinner>
+    <mat-card *ngFor="let user of users" [routerLink]="['/details', user.id]" class="mt-3 list-group-item-action list-group-item animate__fadeIn animate__animated animate__bounce">
+        <mat-card-content> {{user.id }} - {{user.last_name}}, {{user.first_name}}</mat-card-content>
+    </mat-card> 
+</div>
