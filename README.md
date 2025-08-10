@@ -1,6 +1,7 @@
 # 📱 PWA Angular
 
-**PWA** is a Progressive Web App built with **AngularJS**. It provides a fast, reliable, and engaging user experience across all devices by leveraging modern web capabilities. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
+PWA is a Progressive Web App built with **AngularJS**. It provides a fast, reliable, and engaging user experience across all devices by leveraging modern web capabilities. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
+
 ---
 
 ## 🚀 Features 
