@@ -1,27 +1,37 @@
-# AngularPwa
+# 📱 PWA Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
+**PWA** is a Progressive Web App built with **AngularJS**. It provides a fast, reliable, and engaging user experience across all devices by leveraging modern web capabilities. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
+---
 
-## Development server
+## 🚀 Features 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Progressive Web App with offline support  
+- Responsive design for mobile and desktop  
+- Built with AngularJS framework  
+- Smooth navigation and fast load times  
 
-## Code scaffolding
+## 🛠️ Technologies 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- AngularJS  
+- HTML5 & CSS3  
+- Service Workers  
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 💻 Installation 
 
-## Running unit tests
+Clone the repository and open the `index.html` file in your browser:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```bash
+git clone https://github.com/tu-usuario/pwa.git
+cd pwa
+open index.html
+/dist
+```
 
-## Running end-to-end tests
+## 📄 License
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Open to contributions!  
+This project is licensed under the MIT License.  
+© 2022 [rarubinat](https://github.com/rarubinat)
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
